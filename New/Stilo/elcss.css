@@ -1,0 +1,96 @@
+#header{
+	background-color: #000000;
+	font-style: oblique;
+	color:white;
+	font-size: 50px;
+}
+
+#nav{
+	text-align: center;
+	list-style: none;
+	padding: 0px;
+	background-color: #000000 ;
+	width: 50%;
+	max-width: 500px;
+	margin: auto;
+	display:block;
+}
+#menu{
+	list-style: none;
+	display: inline-block;
+}
+
+.li{
+  list-style: none;
+  padding: 0px;
+  background: #000000;
+  width: 40%;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.li li a{
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  display:block;
+}
+
+.li li{
+  display: inline-block;
+  text-align: center;
+
+}
+
+.li li a:hover{
+  background: #32F02C;
+
+}
+#eto{
+     position: relative;
+}
+
+#cuadro{
+	background-color: #000000;
+	padding: 10px 5px 10px 5px;
+	color:white;
+	float: right;
+	width: 200px
+}
+
+#bigcuad{
+	background-color: #F54516;
+	padding: 15px 15px 15px 15px;
+	text-align: left;
+	display: block;
+	max-width: 870px;
+	height: auto;
+}
+.bigcuad figure .cap{
+	background: rgba(0,103,123,0.6);
+	transition: all 500ms ease-out;
+	opacity: 0;
+}
+
+.nrr {
+  width: 100%;
+}
+#ggc{
+    padding:20px;
+}
+
+#utlg{
+	background-color: #000000;
+	font-size: 100px;
+	padding: 15px 15px 15px 15px;
+	max-width: 1000px;
+	height: 100;
+}
+#sssc{
+	background-color: #000000;
+	color: #9D9A9A;
+	font-size: 20px;
+	padding: 15px 15px 15px 15px;
+	max-width: 1100px;
+	height: 100;
+}
